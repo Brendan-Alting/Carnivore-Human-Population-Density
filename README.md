@@ -7,8 +7,12 @@ These scripts format the raw data and fit models, as well as plotting model resu
 The 'raw-data' folder contains all data required to run capture recapture models. 
 "finalhabitatmapaug2023cut": Shapefile of study area
 CamopMatrixFourSessions: Camera Operation Matrix across survey sessions
+
 CoordsCovs: Weights of potential resource supplements
+
 DoubleIDs30min: Detection History of Identified Dingoes
+
 TrapsAlone: UTM coordinates of camera traps
+
 TrapsUTMSpecificFourSessions: Traps file with covariates and session. 
 
