@@ -1,4 +1,4 @@
-# Carnivore-Resource-Dispersion
+# Carnivore-Human-Population-Density
 Brendan F. Alting, Benjamin J. Pitcher, Matthew W. Rees Jose R. Ferrer-Paris, Neil R. Jordan
 
 All analyses were conducted in R, numbered scripts (reflecting the order to run scripts in) are contained in the 'r_scripts' folder. 
@@ -10,7 +10,7 @@ The 'raw-data' folder contains all data required to run capture recapture models
 
 CamopMatrixFourSessions: Camera Operation Matrix across survey sessions
 
-CoordsCovs: Weights of potential resource supplements
+CoordsCovs: Weights of Human Population Density
 
 DoubleIDs30min: Detection History of Identified Dingoes
 
