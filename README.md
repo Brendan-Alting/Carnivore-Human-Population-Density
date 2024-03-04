@@ -8,7 +8,7 @@ The 'raw-data' folder contains all data required to run capture recapture models
 
 "finalhabitatmapaug2023cut": Shapefile of study area
 
-CamopMatrixFourSessions: Camera Operation Matrix across survey sessions
+CamopMatrixSixSessions: Camera Operation Matrix across survey sessions
 
 CoordsCovs: Weights of Human Population Density
 
@@ -16,5 +16,5 @@ DoubleIDs30min: Detection History of Identified Dingoes
 
 TrapsAlone: UTM coordinates of camera traps
 
-TrapsUTMSpecificFourSessions: Traps file with covariates and session. 
+TrapsUTMSpecificSixSessions: Traps file with covariates and session. 
 
